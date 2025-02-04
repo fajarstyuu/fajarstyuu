@@ -2,7 +2,7 @@
 
 - 💻 I’m currently diving deep into Full-Stack Development while exploring the world of Software Architecture.
 
--🚀 Always eager to build scalable, efficient, and well-structured applications.
+- 🚀 Always eager to build scalable, efficient, and well-structured applications.
 
 - 🌱 I’m currently learning **Golang, Springboot, Docker, Graphql**
 
