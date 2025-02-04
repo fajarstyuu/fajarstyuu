@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rizky Fajar Satriya!</h1>
+<h1 align="center">Hi, I'm Rizky Fajar Satriya!👋</h1>
+<h1 align="center">Call Me Rizky👋</h1>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 - 💻 I’m currently diving deep into Full-Stack Development while exploring the world of Software Architecture.
 
