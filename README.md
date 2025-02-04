@@ -2,6 +2,7 @@
 <h3 align="center">Your Friendly Neighborhood Fullstack Developer 🤓 🕸 🕷</h1>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BibmNtMnY1bmQ4NnFjcjRueTNhYTg2OWFjdWNwMHd2ZmFhZjVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="300px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThiZHV1azcyN2Z6ZWtpeHkzMTZvZ2FrbHczazB3NXNsMnRlOHZtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/paoX8smVvbggCXLu80/giphy.gif" width="300px">
 </div>
 
 
