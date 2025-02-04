@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rizky Fajar Satriya!👋</h1>
-<h3 align="center">your Friendly Neighborhood Fullstack Developer 🤓 🕸 🕷</h1>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BibmNtMnY1bmQ4NnFjcjRueTNhYTg2OWFjdWNwMHd2ZmFhZjVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="300px">
+<h3 align="center">Your Friendly Neighborhood Fullstack Developer 🤓 🕸 🕷</h1>
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BibmNtMnY1bmQ4NnFjcjRueTNhYTg2OWFjdWNwMHd2ZmFhZjVuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="300px">
 
 - 💻 I’m currently diving deep into Full-Stack Development while exploring the world of Software Architecture.
 
