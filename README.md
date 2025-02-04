@@ -1,5 +1,5 @@
 ## Hi there 👋
-## You Can Call Me Rizky 👋🤓
+You Can Call Me Rizky 👋🤓
 
 <!--
 **fajarstyuu/fajarstyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
